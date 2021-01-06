@@ -1,6 +1,6 @@
 //Print the answer of the series (1/1! + 2/2! +3/3!...) using for loop.//
 
-#include<stdio.n>
+#include<stdio.h>
 void main(){
     float i,fact = 1,n;
     float ans = 0,b;
