@@ -11,3 +11,7 @@ Extra codes for loop control structures
 7. Loop_p7.c - Find LCM
 8. Loop_p8.c - C Program to Display Characters from A to Z Using Loop
 9. Loop_p9.c - Program to Count the Number of Digits
+10. Loop_p10.c - Reverse an Integer
+11. Loop_p11.c - Power of a Number Using the while Loop
+12. Loop_p12.c - C Program to Check Whether a Number is Palindrome or Not 
+
