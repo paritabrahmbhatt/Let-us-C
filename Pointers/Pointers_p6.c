@@ -20,6 +20,6 @@ void main()
     int len = sizeof(arr)/sizeof(arr[0]);
     int min,max;
     minandmax(arr,len,&min,&max);
-    printf("Min and max is %d and %d respectively.",min,max);
+    printf("Min and max is %d and %d respectively.",max,min);
     return 0;
 }
