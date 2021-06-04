@@ -8,3 +8,4 @@
 |4|Matrix Multiplication|
 |5| Write a function rotate array in left direction by one space.|
 |6|Write a function rotate array in right direction by one space.|
+|7|Find largest and smallest elements of an array|
