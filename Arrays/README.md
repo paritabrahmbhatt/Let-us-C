@@ -9,3 +9,5 @@
 |5| Write a function rotate array in left direction by one space.|
 |6|Write a function rotate array in right direction by one space.|
 |7|Find largest and smallest elements of an array|
+|8|Write a function rotate(arr[], d, n) that rotates arr[] of size n by d elements.|
+|9|Sort an array in ascending order|
