@@ -7,3 +7,4 @@
 |3| Write a program that reads 5x5 array of the integers and prints the row sum and column sum|
 |4|Matrix Multiplication|
 |5| Write a function rotate array in left direction by one space.|
+|6|Write a function rotate array in right direction by one space.|
