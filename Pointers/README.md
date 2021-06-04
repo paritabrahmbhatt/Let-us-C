@@ -10,4 +10,4 @@
 |4| Arithmetic operation on data and address locations using pointers |
 |5| Arithmetic Operations on data|
 |6|Find largest and smallest elements of an array|
-
+|7|Find largest and smallest elements of an array using pointers.|
