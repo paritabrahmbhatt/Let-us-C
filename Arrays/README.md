@@ -11,3 +11,6 @@
 |7|Find largest and smallest elements of an array|
 |8|Write a function rotate(arr[], d, n) that rotates arr[] of size n by d elements.|
 |9|Sort an array in ascending order|
+|10| Write a program to find kth largest element in Unsorted array|
+|11| Sort an array in descending order|
+|12| Write a program to find the kth largest element in unsorted array|
