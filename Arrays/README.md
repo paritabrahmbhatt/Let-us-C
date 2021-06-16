@@ -14,3 +14,5 @@
 |10| Write a program to find kth largest element in Unsorted array|
 |11| Sort an array in descending order|
 |12| Write a program to find the kth largest element in unsorted array|
+|13| Maximum OR sum of sub-arrays of two different arrays|
+|14| Check if a key is present in every segment of size k in an array|
