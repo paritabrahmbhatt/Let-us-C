@@ -16,3 +16,6 @@
 |12| Write a program to find the kth largest element in unsorted array|
 |13| Maximum OR sum of sub-arrays of two different arrays|
 |14| Check if a key is present in every segment of size k in an array|
+|15|Range and Coefficient of range of Array|
+|16|Move all negative numbers to beginning and positive to end with constant extra space|
+|17|Union and Intersection of two sorted arrays|
